@@ -94,5 +94,4 @@ Works in any modern evergreen browser (Chrome, Firefox, Edge, Safari) with `loca
 - Multi-user roles (admin, teacher) within one organization
 
 ## License
-
-Add your preferred license here (e.g. MIT).
+Licensed under the Apache License, Version 2.0 — see the LICENSE file for details.
